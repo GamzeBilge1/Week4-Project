@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\bin\Debug\net8.0\Week4-Project.exe
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\bin\Debug\net8.0\Week4-Project.deps.json
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\bin\Debug\net8.0\Week4-Project.runtimeconfig.json
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\bin\Debug\net8.0\Week4-Project.dll
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\bin\Debug\net8.0\Week4-Project.pdb
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\obj\Debug\net8.0\Week4-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\obj\Debug\net8.0\Week4-Project.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\obj\Debug\net8.0\Week4-Project.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\obj\Debug\net8.0\Week4-Project.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\obj\Debug\net8.0\Week4-Project.sourcelink.json
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\obj\Debug\net8.0\Week4-Project.dll
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\obj\Debug\net8.0\refint\Week4-Project.dll
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\obj\Debug\net8.0\Week4-Project.pdb
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\obj\Debug\net8.0\Week4-Project.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Week4-Project\Week4-Project\obj\Debug\net8.0\ref\Week4-Project.dll
